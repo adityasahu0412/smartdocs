@@ -1,0 +1,14 @@
+# database credentials - never push this
+src/main/resources/application.properties
+
+# Maven build folder
+target/
+
+# React build and dependencies
+node_modules/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
